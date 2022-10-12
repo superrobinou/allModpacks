@@ -1,7 +1,7 @@
 # allModpacks
 mes créations de modpacks
 ## Islands
-Un modpack dans lequel vous voyagerez d'île en île avec donc de l'exploration/rpg et un côté skyblock
+Un modpack dans lequel vous voyagerez d'île en île avec donc de l'exploration/rpg et un côté skyblock  
 crédit des datapacks:
 
 New Shipwrecks, New Pilllagers, New Ocean Ruins: https://www.milesplayz.com/
